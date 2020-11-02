@@ -1,0 +1,13 @@
+******
+**Instalar vue js
+>> npm install vue
+
+**Instalar bootstrap
+>> npm i bootstrap-vue
+>> npm install vue bootstrap-vue bootstrap
+
+**Instalar Toast
+>> npm install vue-toast-notification
+
+**Correr aplicacion con el comando - vue js
+>> npm run dev
